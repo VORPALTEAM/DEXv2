@@ -6,8 +6,11 @@ export default function Page(): JSX.Element {
   return (
     <main className={styles.main}>
           <h1>
-            Vorpal DEX
+            Vorpal DEX platform
           </h1>
+		  <h3>
+		    Now researching
+		  </h3>
     </main>
   );
 }
